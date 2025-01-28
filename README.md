@@ -9,7 +9,7 @@ The main focus is on understanding user engagement, learning patterns, and key m
 
 ## Project Structure
 - **assets/**: Contains images, supporting files, or other assets for visualizations and reporting.
-- **Jupyter Notebook**: Includes the data analysis and visualization workflows.
+- **Jupyter Notebook**: duolingo_analysis.ipynb includes the data analysis and visualization workflows.
 
 ## Objectives
 - Analyze user engagement data and learning progress.
