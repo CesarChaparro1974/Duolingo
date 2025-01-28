@@ -1,3 +1,6 @@
+![Duolingo Analysis Header](assets/duolingo.png)
+
+
 # Duolingo Project Analysis
 
 ## Introduction
