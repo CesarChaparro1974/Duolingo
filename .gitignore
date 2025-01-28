@@ -1,3 +1,5 @@
 *.csv
 !assets/
 *.ipynb
+duolingo_users_reduced.csv
+learning_traces.13m.csv
