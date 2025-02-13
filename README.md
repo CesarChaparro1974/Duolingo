@@ -1,4 +1,4 @@
-![Duolingo Analysis Header](assets/duolingo.png)
+![Duolingo Analysis Header](assets/pajaro.png)
 
 
 # Duolingo Project Analysis
