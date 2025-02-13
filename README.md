@@ -16,10 +16,8 @@ The main focus is on understanding user engagement, learning patterns, and key m
 - Extract insights to improve user experience on the platform.
 - Visualize patterns using Python libraries.
 
-## Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/CesarChaparro1974/Duolingo.git
+## Check out the Dashboard Here
+[Check out the Dashboard here](https://public.tableau.com/app/profile/cesar.chaparro6844/viz/LearningprogressonDuolingo/Dashboard1#1)
 
 ## Disclaimer
 The .csv files used in this project have been excluded from the repository due to size limitations. 
